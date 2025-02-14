@@ -98,11 +98,13 @@ main {
   color: rgba(39, 33, 66, 0.4);
   font-size: 16px;
   line-height: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 .weather-forecast-icon {
+  color: white;
   text-align: center;
   font-size: 38px;
+  margin-top: 20px;
 }
 .weather-forecast-temperatures {
   text-align: center;
